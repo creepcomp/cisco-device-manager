@@ -1,6 +1,6 @@
-# Cisco Manager
+# Cisco Device Manager
 
-Cisco Manager is a Python-based application built with Tkinter that allows users to manage multiple Cisco devices via SSH. This tool provides a user-friendly interface for executing commands, organizing devices into groups, and backing up configurations to a TFTP server.
+Cisco Device Manager is a Python-based application built with Tkinter that allows users to manage multiple Cisco devices via SSH. This tool provides a user-friendly interface for executing commands, organizing devices into groups, and backing up configurations to a TFTP server.
 
 ## Features
 
