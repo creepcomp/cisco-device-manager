@@ -1,0 +1,9 @@
+customtkinter
+pillow
+mysql-connector-python
+psutil
+paramiko
+netmiko
+passlib
+numpy
+regex
